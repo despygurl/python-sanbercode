@@ -1,2 +1,2 @@
 # sanbercode_python
-Ini kumpulan tugas saat belajar di sanbercode
+kumpulan tugas saat belajar di sanbercode
